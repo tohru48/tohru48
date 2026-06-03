@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[GIF_LINKINI_BURAYA_YAPISTIR](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG45bGVnajR5aGFuem80MmV0YjRnMXR6eGEwcDN2NGI3d2g5ZG1pNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fT3PPZwB2lZMk/giphy.gif)" alt="banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG45bGVnajR5aGFuem80MmV0YjRnMXR6eGEwcDN2NGI3d2g5ZG1pNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fT3PPZwB2lZMk/giphy.gif" alt="banner" />
 </div>
 
 ---
@@ -55,11 +55,3 @@ Former DDTank Developer | Traces in many game files | Open source enthusiast
 ![Flash CC](https://img.shields.io/badge/Flash_CC-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Cocos2d-x](https://img.shields.io/badge/Cocos2d--x-55C2E1?style=flat-square&logoColor=white)
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=flat-square&logoColor=white)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tohru48&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-</div>
